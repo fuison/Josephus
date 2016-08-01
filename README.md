@@ -7,8 +7,8 @@ There are n people standing in a circle. The counting begins at some point in th
 The program finds the Safe-Position in a circle. The program needs two Parameters number-Of-People and Step-Rank. The program does not throw exceptions; it prints error messages.
 
 ##### Parameters:
-  - numberOfPeople: must be integer and greater than or equal to one
-  - stepRank: must be integer and greater than or equal to zero
+  - numberOfPeople: must be an integer and greater than or equal to one
+  - stepRank: must be an integer and greater than or equal to zero
  
 ##### Instruction:
   - Install: sbt (e.g. port install sbt)
